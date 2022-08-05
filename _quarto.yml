@@ -15,11 +15,11 @@ format:
     toc: true
 
 website:
-  title: "nbdev"
+  title: "my-notes"
   twitter-card: true
   reader-mode: true
   repo-branch: master
-  repo-url: https://github.com/fastai/nbdev
+  repo-url: https://github.com/muellerzr/my-notes
   repo-actions: [issue]
   navbar:
     background: primary
@@ -29,7 +29,7 @@ website:
         file: index.ipynb
     right:
       - icon: github
-        href: https://github.com/fastai/nbdev/
+        href: https://github.com/muellerzr/my-notes/
   sidebar:
     style: "floating"
 
